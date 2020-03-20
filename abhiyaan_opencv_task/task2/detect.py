@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+# basics :sentdex open cv tutorial
 for i in range(1,4):
     img=cv2.imread(str(i)+".png")
     a=np.asarray(img)
