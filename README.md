@@ -1,7 +1,7 @@
 # Abhiyaan_Software_Recruitmentda
 
-# Submission for Team Abhiyaan
-  ============================
+Submission for Team Abhiyaan
+============================
 
 Name:
 -----
